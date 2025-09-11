@@ -1,31 +1,31 @@
-# 💳 Credit Insights: Weekly Credit Card Dashboard
+# Credit Insights: Weekly Credit Card Dashboard
 
-## 📋 Project Objective
+## 1. Project Objective
 
 A Power BI dashboard designed to track and analyse weekly and year-to-date (YTD) credit card metrics. It helps stakeholders monitor revenue, transactions, customer behaviour, and card performance across categories, segments, and geographies to support strategic decision-making.
 
-## 🛠 Tech Stack
+## 2. Tech Stack
 
-• 📊 Power BI Desktop – Main data visualisation platform used for report creation.
-• 📂 SQL Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modelling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+ 📊 Power BI Desktop – Main data visualisation platform used for report creation.                                                                 
+ 📂 SQL Query – Data transformation and cleaning layer for reshaping and preparing the data.                          
+ 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.               
+ 📝 Data Modelling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.           
+ 📁 File Format – .pbix for development and .png for dashboard previews.
 
-## 📂 Data Source
+## 3. Data Source
 
 Data from weekly and YTD reports, including revenue, transactions, interest, customer demographics (age, gender, income, education, dependents, marital status), card types (Blue, Silver, Gold, Platinum), transaction modes (Swipe, Chip, Online), and geographic performance across states like TX, NY, and CA. 
 The datasets are provided as structured Excel files and updated every week for reporting and analysis.
 
-## ✨ Features / Highlights
+##  4. Features / Highlights
 
-### 📊 Business Problem  
+###  Business Problem  
 Stakeholders need a clear, real-time view of credit card performance to understand revenue trends, customer engagement, and operational health.
 
-### 🎯 Goal of the Dashboard  
+###  Goal of the Dashboard  
 Track weekly and YTD KPIs, uncover trends by card type, demographic segment, and region, and empower data-driven decisions.
 
-### 📈 Walkthrough of Key Visuals
+###  Walkthrough of Key Visuals
 
 #### Customer Report Page
 - **Key Metrics Cards:**  
@@ -68,32 +68,32 @@ Track weekly and YTD KPIs, uncover trends by card type, demographic segment, and
 - **Interactive Filters:**  
   Similar to the Customer Report, filters for quarter and week allow for dynamic and focused data exploration.
 
-## 📊 Weekly Insights / YTD Overview
+## 5. Weekly Insights / YTD Overview
 
-- ✅ **YTD Revenue:** \$57M  
-- ✅ **Total Interest:** \$8M  
-- ✅ **Total Transaction Amount:** \$46M  
+-  **YTD Revenue:** \$57M  
+-  **Total Interest:** \$8M  
+-  **Total Transaction Amount:** \$46M  
 
-- 📈 **Week 53 WoW Changes:**  
+-  **Week 53 WoW Changes:**  
    - Revenue: +28.8%  
    - Transaction Amount: +33.5%  
    - Transaction Count: +9.1%  
 
-- 👨 **Revenue by Gender:**  
+-  **Revenue by Gender:**  
    - Male: \$31M  
    - Female: \$26M  
 
-- 💳 **Card Type Breakdown:**  
+-  **Card Type Breakdown:**  
    - Blue & Silver: 93% of total transactions
 
-- 📍 **Top Regions:**  
+-  **Top Regions:**  
    - TX, NY, CA: 68% of overall revenue
 
-- ⚙️ **Operational Metrics:**  
+- **Operational Metrics:**  
    - Activation Rate: 57.5%  
    - Delinquency Rate: 6.06%
 
-## 📌 Key Insights
+## 6. Key Insights
 
 - Strong revenue growth driven by rising transaction volume  
 - Higher engagement indicated by transaction increases  
@@ -103,10 +103,10 @@ Track weekly and YTD KPIs, uncover trends by card type, demographic segment, and
 - Healthy activation rates and low delinquency support sustainable growth  
 These insights guide marketing strategies, product prioritization, and regional efforts.
 
-## 📸 Screenshots / Demos
+## 7. 📸 Screenshots / Demos
 
 ![Customer Dashboard Preview](https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard/blob/main/credit_card_customer.png)
-![Transaction Dashboard Preview]
+![Transaction Dashboard Preview](https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard/blob/main/credit_card_transaction.png)
 
 
 
