@@ -103,14 +103,13 @@ Track weekly and YTD KPIs, uncover trends by card type, demographic segment, and
 - Healthy activation rates and low delinquency support sustainable growth  
 These insights guide marketing strategies, product prioritization, and regional efforts.
 
-## 📸 Screenshots / Demo
+## 📸 Screenshots / Demos
 
-![Dashboard Preview](./images/dashboard_preview.png)
-
-## 📥 Download
-
-Download the Power BI file: [credit-insights-dashboard.pbix](./files/credit-insights-dashboard.pbix)
+![Customer Dashboard Preview](https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard/blob/main/credit_card_customer.png)
+![Transaction Dashboard Preview]
 
 
----
+
+
+
 
