@@ -57,7 +57,7 @@ credit_card_financial_dashboard/
 ├── Credit Card Report final.pbix    # Main Power BI project file
 ├── Credit_Card_Report.pdf # Exported PDF report 
 |
-├── queries.sql                                                       └── README.md                        
+├──queriessql                                     └── README.md                        
 
 ```
 
@@ -67,7 +67,7 @@ credit_card_financial_dashboard/
 
 1. **Clone the Repository:**
 ```bash
-git clone [https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git](https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git)
+git clone ![https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git](https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git)
 
 ```
 
