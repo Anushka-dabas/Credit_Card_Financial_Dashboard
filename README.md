@@ -57,7 +57,7 @@ credit_card_financial_dashboard/
 ├── Credit Card Report final.pbix    # Main Power BI project file
 ├── Credit_Card_Report.pdf # Exported PDF report 
 |
-├──queriessql                                     └── README.md                        
+├──queries.sql                                                                └── README.md                        
 
 ```
 
