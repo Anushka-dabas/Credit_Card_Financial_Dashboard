@@ -67,7 +67,7 @@ credit_card_financial_dashboard/
 
 1. **Clone the Repository:**
 ```bash
-git clone ![https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git](https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git)
+git clone https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git
 
 ```
 
