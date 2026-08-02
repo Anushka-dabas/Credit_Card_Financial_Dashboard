@@ -1,6 +1,4 @@
 
-
-```markdown
 #  Credit Card Financial Dashboard & Weekly Report
 
 An end-to-end data analysis project built using **PostgreSQL**, **Power BI**, and **DAX** to track and analyze key financial metrics, customer demographics, and transactional trends for a credit card portfolio.
@@ -69,7 +67,7 @@ credit_card_financial_dashboard/
 
 1. **Clone the Repository:**
 ```bash
-git clone [https://github.com/your-username/credit-card-financial-dashboard.git](https://github.com/your-username/credit-card-financial-dashboard.git)
+git clone [https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git](https://github.com/Anushka-dabas/Credit_Card_Financial_Dashboard.git)
 
 ```
 
@@ -82,6 +80,3 @@ git clone [https://github.com/your-username/credit-card-financial-dashboard.git]
 3. **Explore the Dashboard:**
 * Open `Credit Card Report final.pbix` in **Power BI Desktop**.
 * Go to the **Home** tab and click **Refresh** to load the data from your local database.
-
-
-
