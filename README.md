@@ -42,6 +42,7 @@ The objective of this project is to develop a comprehensive weekly dashboard tha
 
 ##  Repository Structure
 ```text
+
 credit_card_financial_dashboard/
 │
 ├── assets/                          
@@ -54,10 +55,12 @@ credit_card_financial_dashboard/
 │   ├── cust_add.csv
 │   └── cc_add.csv
 │
-├── Credit Card Report final.pbix    # Main Power BI project file
-├── Credit_Card_Report.pdf # Exported PDF report 
-|
-├──queries.sql                                                                └── README.md                        
+├── CC_powerbi_dashboard.pbit        # Power BI template file
+├── Credit Card Report final.pdf     
+├── queries.sql                      
+├── requirements.txt
+└── README.md
+                   
 
 ```
 
